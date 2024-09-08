@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Z.A.A codes"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "parallax-3d-lens-effect-website"
+	}
+}
